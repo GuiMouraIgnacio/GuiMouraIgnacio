@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=EEEEEE&width=435&lines=Hey%F0%9F%91%8B+What's+up%3F)](https://git.io/typing-svg)
 
 ###
 
