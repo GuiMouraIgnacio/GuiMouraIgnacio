@@ -1,0 +1,3 @@
+[     873ms] [WARNING] Manifest: property 'description' ignored, type string expected. @ https://cmakota.portfoliobox.net/manifest.webmanifest:0
+[     886ms] [ERROR] Access to font at 'https://cdn.portfolioboxdns.com/pb3/application/_files/pbox/fonts/pbox14.woff' from origin 'https://cmakota.portfoliobox.net' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://cmakota.portfoliobox.net/:0
+[     886ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://cdn.portfolioboxdns.com/pb3/application/_files/pbox/fonts/pbox14.woff:0
