@@ -54,7 +54,7 @@ export default function About() {
                 <div className="flex items-center gap-3 text-text-muted">
                   <GraduationCap size={16} className="text-accent shrink-0" />
                   <span className="text-sm">
-                    B.S. Information Systems · Universidade de São Paulo (USP)
+                    B.S. Information Systems · Universidade de São Paulo (2016-2019)
                   </span>
                 </div>
               </div>
